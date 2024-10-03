@@ -1,5 +1,5 @@
 document.addEventListener("DOMContentLoaded", function() {
-    const targetDate = new Date('Oct 03, 2024 14:10:00').getTime();
+    const targetDate = new Date('Jan 01, 2025 00:00:00').getTime();
 
     let interval = setInterval(function() {
         const now = new Date().getTime();
@@ -26,7 +26,7 @@ document.addEventListener("DOMContentLoaded", function() {
 });
 
 document.addEventListener("DOMContentLoaded", function() {
-    const targetDate = new Date('Oct 03, 2024 14:10:00').getTime();
+    const targetDate = new Date('Jan 01, 2025 00:00:00').getTime();
     const loadingScreen = document.getElementById('loading-screen');
 
     let interval = setInterval(function() {
